@@ -1,4 +1,4 @@
-<img src="http://truffleframework.com/docs/img/logo.png" width="200">
+<img src="https://camo.githubusercontent.com/7240582453539ece449f39250a2b063427c83375/68747470733a2f2f74727566666c656672616d65776f726b2e636f6d2f696d672f74727566666c652d6c6f676f2d6461726b2e737667" width="200">
 
 [![npm](https://img.shields.io/npm/v/truffle.svg)]()
 [![npm](https://img.shields.io/npm/dm/truffle.svg)]()
@@ -69,7 +69,7 @@ solcjs compile spend: 29602.406ms
 目前只测试windows 10环境，Linux环境未测试。系统合约需要合并一下最新的develop分支，去掉了一行注释，solcjs版本才能编译。
 
 ## 开发计划
-[ ] 增加增量编译选项，即只编译指定合约文件，提高编译效率。
+- [ ] 增加增量编译选项，即只编译指定合约文件，提高编译效率。
 
 -----------------------
 
