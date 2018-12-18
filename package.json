@@ -81,7 +81,6 @@
   "scripts": {
     "build": "npm run build-cli",
     "build-cli": "webpack --config ./cli.webpack.config.js",
-    "prepare": "npm run build",
     "publish:byoc": "node ./scripts/prereleaseVersion.js byoc-safe byoc",
     "publish:next": "node ./scripts/prereleaseVersion.js next next",
     "test": "npm run build-cli && mocha --colors"
