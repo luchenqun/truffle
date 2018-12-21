@@ -22,4 +22,3 @@ yarn-error.log*
 
 # my-settings
 package-lock.json
-dist.zip
